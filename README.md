@@ -10,23 +10,36 @@ Credits to Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Ligency
 
 
 Key areas of focus included:
-1. Data Processing
-Pre-processing: Handled missing data, categorical encoding, and feature scaling.
-Dimensionality Reduction: Used PCA and LDA to optimize high-dimensional datasets.
+1. Data Preprocessing
+Importing datasets, handling missing data, encoding categorical data, splitting training/test sets, and feature scaling.
 
-2. Supervised Learning
-Regression: Built and evaluated Linear, Polynomial, SVR, and Random Forest models.
-Classification: Implemented Logistic Regression, K-NN, SVM, Naive Bayes, and Decision Trees.
-Model Evaluation: Analyzed performance using Confusion Matrices and k-Fold Cross Validation.
+2. Regression
+Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Support Vector Regression (SVR), Decision Tree Regression, and Random Forest Regression.
 
-3. Unsupervised Learning
-Clustering: Segmented data using K-Means and Hierarchical Clustering.
-Association Rule Learning: Applied Apriori and Eclat algorithms for pattern discovery.
+3. Classification
+Logistic Regression, K-Nearest Neighbors (K-NN), Support Vector Machine (SVM), Kernel SVM, Naive Bayes, Decision Tree Classification, and Random Forest Classification.
 
-4. Advanced Topics
-Deep Learning: Built basic Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN).
-Reinforcement Learning: Implemented Upper Confidence Bound (UCB) and Thompson Sampling.
-NLP: Developed a basic sentiment analysis model using Bag-of-Words.
+4. Clustering
+K-Means Clustering and Hierarchical Clustering.
+
+5. Association Rule Learning
+Apriori and Eclat.
+
+6. Reinforcement Learning
+Upper Confidence Bound (UCB) and Thompson Sampling.
+
+7. Natural Language Processing
+Tokenization, Bag-of-Words models, and sentiment analysis.
+
+8. Deep Learning
+Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN).
+
+9. Dimensionality Reduction
+Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), and Kernel PCA.
+
+10. Model Selection & Boosting
+k-Fold Cross Validation, Grid Search parameter tuning, and XGBoost.
+
 
 
 Libraries: Scikit-Learn, NumPy, Pandas, Matplotlib
