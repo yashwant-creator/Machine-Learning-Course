@@ -1,5 +1,5 @@
 🛠 Project Scope
-The certification covered the end-to-end machine learning workflow, which I implemented using both Python. 
+The certification covered the end-to-end machine learning workflow, which I implemented using only Python. 
 
 
 Course Name: Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2026]
